@@ -4,16 +4,6 @@
 This project predicts the **Weather Code** (0 for **Sunny**, 1 for **Rainy**, 2 for **Cloudy**) using historical weather data from **30 cities in Sri Lanka** (2010-2023). By analyzing past weather patterns, the model will help classify future weather conditions, ultimately assisting in **better planning** for weather-dependent activities.
 
 ---
-
-## 👨‍💻 **Contributors**:
-- **Chathura Kumara** 
-  [GitHub](https://github.com/chathura26322) | [LinkedIn](https://www.linkedin.com/in/chathura26322)
-  
-- **R.P.L. Jayasena** 
-  [GitHub](https://github.com/pasindu-jayasena) |          [LinkedIn](https://www.linkedin.com/in/pasindujayasena/)
-
----
-
 ## 📊 **Dataset Information**
 **Data Source**: [Sri Lanka Weather Dataset](https://www.kaggle.com/datasets/rasulmah/sri-lanka-weather-dataset)
 
